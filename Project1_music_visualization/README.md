@@ -6,6 +6,8 @@
 
 ### 项目结构：
 
+项目链接：https://suxinyi.github.io/music_visualization/
+
 index.html: 前端主要结构
 
 style.css: 前端样式设计
